@@ -1,0 +1,47 @@
+Phong,Chung chu,Dieu hoa,Nong lanh,Quat,Tu lanh,Bep,Tu quan ao,Giuong,Gac xep,May giat,Khoang cach(km),An ninh,Dien tich,Tien dien(nghin/kwh),Tien nuoc/m3,Tien rac/thang,Gia phong,Quyet dinh thue
+khep kin,co,co,co,quat tran,co,co,tu go,giuong doi,co,co,~1,tot,20m2,3k,20k,20k,3tr8,co
+khep kin,co,khong,co,quat tran,khong,khong,tu go,giuong don,co,khong,~1,on,15m2,4k,20k,20k,2tr5,co
+khong khep kin,co,co,khong,quat cay,khong,khong,tu nhua,giuong don,khong,khong,~0.5,on,8m2,3k,15k,15k,1tr,khong
+khep kin,khong,khong,co,quat treo tuong,khong,khong,tu nhua,giuong don,khong,khong,~1.5,tot,10m2,3.5k,12k,20k,1tr,khong
+khong khep kin,khong,co,khong,khong,khong,khong,tu vai,giuong don,khong,khong,~0.5,on,7m2,2.5k,15k,15k,700k,co
+khep kin,co,khong,co,quat cay,khong,co,tu go,giuong tang,khong,co,~3,tot,15m2,3k,25k,20k,2tr5,khong
+khep kin,khong,co,co,quat treo tuong,co,co,tu go,giuong doi,khong,co,~2,tot,25m2,3.5k,25k,20k,3tr5,co
+khep kin,khong,co,co,quat tran,khong,khong,khong,giuong don,khong,khong,~1,on,10m2,2.5k,15k,15k,1tr2,co
+khong khep kin,co,khong,khong,quat treo tuong,khong ,khong,khong,giuong don,khong,khong,~1.5,on,8m2,2.5k,12k,12k,700k,khong
+khep kin,khong,co,co,khong,khong,khong,tu nhua,giuong don,co,co,~2.5,tot,15m2,3.5k,15k,20k,2tr,co
+khep kin,co,khong,co,khong,co,khong,tu nhua,giuong doi,khong,khong,~2,te,18m2,3k,15k,15k,1tr2,khong
+khep kin,khong,co,co,quat cay,co,co,khong,giuong don,co,khong,~1.5,te,20m2,2.5k,20k,15k,2tr8,co
+khong khep kin,co,co,khong,quat treo tuong,khong,khong,khong,giuong doi,khong,co,~2.5,tot,10m2,3k,12k,15k,1tr,khong
+khong khep kin,khong,co,co,quat tran,khong,co,tu nhua,giuong doi,khong,co,~1,on,18m2,3k,15k,20k,2tr,co
+khep kin,co,co,co,khong,co,co,tu go,giuong tang,khong,co,~0.5,te,20m2,3k,12k,12k,3tr5,khong
+khong khep kin,khong,co,co,quat cay,khong,khong,tu vai,giuong doi,khong,khong,~1,on,10m2,2.5k,15k,12k,800k,co
+khong khep kin,co,co,co,quat treo tuong,khong,co,tu go,giuong doi,khong,khong,~1.5,tot,25m2,3k,20k,15k,2tr8,khong
+khep kin,co,co,co,khong,co,co,tu nhua,giuong tang,co,khong,~4,tot,18m2,4k,20k,20k,2tr8,khong
+khep kin,khong,co,co,khong,co,co,tu go,giuong don,co,khong,~3,tot,18m2,3.5k,20k,10k,2tr5,co
+khep kin,khong,co,co,quat cay,co,co,tu go,giuong tang,co,co,~1,te,25m2,3k,25k,25k,4tr,khong
+khep kin,khong,co,co,quat treo tuong,khong,co,tu nhua,giuong doi,khong,co,~0.5,on,20m2,4k,20k,25k,3tr6,co
+khong khep kin,khong,co,khong,quat cay,khong,khong,tu go,giuong doi,khong,khong,~1,on,7m2,2.5k,15k,15k,1tr,co
+khong khep kin,khong,khong,co,quat tran,khong,khong,tu vai,giuong doi,khong,co,~0.5,tot,10m2,3.5k,15k,20k,1tr,khong
+khep kin,co,co,co,khong,khong,khong,tu go,giuong tang,khong,co,~5,tot,18m2,3k,20k,15k,1tr8,khong
+khep kin,co,co,co,quat tran,khong,khong,tu go,giuong don,co,khong,~4,on,18m2,2.5k,15k,25k,2tr2,co
+khong khep kin,khong,co,khong,khong,khong,khong,khong,giuong don,khong,khong,~2,te,7m2,2.5k,15k,12k,700k,khong
+khong khep kin,khong,co,co,khong,khong,khong,khong,giuong don,khong,khong,~3,tot,10m2,4k,12k,15k,1tr5,khong
+khep kin,khong,co,co,quat cay,co,co,tu nhua,giuong doi,co,khong,~3,on,30m2,3k,20k,20k,4tr5,khong
+khep kin,khong,co,khong,quat tran,khong,co,tu vai,giuong doi,co,co,~1.5,on,20m2,3k,15k,12k,2tr,co
+khong khep kin,co,co,co,quat treo tuong,khong,co,tu go,giuong doi,khong,co,~1,tot,12m2,3k,15k,15k,2tr,co
+khep kin,khong,co,co,quat cay,co,co,tu go,giuong don,co,co,~2,on,25m2,2.5k,20k,15k,3tr2,co
+khong khep kin,khong,khong,khong,khong,khong,khong,khong,giuong don,khong,khong,~0.5,on,7m2,3k,20k,15k,600k,co
+khep kin,khong,co,co,khong,khong,co,tu nhua,giuong doi,co,co,~1.5,tot,20m2,2.5k,20k,20k,2tr8,co
+khep kin,co,co,co,quat tran,khong,co,tu go,giuong tang,co,khong,~1,te,25m2,4k,20k,25k,3tr5,khong
+khep kin,khong,co,co,quat cay,co,co,tu nhua,giuong tang,co,khong,~5,on,25m2,3.5k,20k,20k,3tr6,khong
+khep kin,co,co,co,quat treo tuong,khong,co,tu nhua,giuong doi,khong,khong,~5,on,25m2,2.5k,15k,15k,3tr2,co
+khep kin,khong,co,co,quat cay,khong,co,khong,giuong doi,co,khong,~1.5,tot,15m2,3k,15k,15k,1tr5,co
+khep kin,khong,khong,co,quat cay,co,co,tu go,giuong doi,khong,khong,~1,on,18m2,3k,20k,15k,1tr5,co
+khong khep kin,co,co,co,quat treo tuong,khong,khong,tu nhua,giuong doi,khong,khong,~0.5,tot,12m2,3k,12k,15k,1tr5,khong
+khep kin,khong,khong,co,khong,co,co,tu go,giuong tang,khong,co,~2,on,15m2,3.5k,20k,25k,2tr2,khong
+khep kin,khong,co,co,quat tran,co,co,tu go,giuong tang,co,co,~1.5,tot,30m2,3k,20k,20k,4tr5,co
+khong khep kin,co,co,co,quat treo tuong,co,co,tu nhua,giuong doi,co,khong,~1,tot,15m2,3k,15k,15k,2tr,khong
+khep kin,co,co,co,quat tran,co,co,tu go,giuong don,co,co,~3,on,25m2,3.5k,20k,20k,4tr,co
+khep kin,khong,co,co,quat cay,khong,co,tu nhua,giuong doi,khong,co,~1.5,on,25m2,4k,20k,25k,4tr,khong
+khong khep kin,khong,co,co,quat cay,khong ,co,khong,giuong tang,khong,khong,~1,tot,10m2,3k,15k,12k,1tr2,khong
+khong khep kin,khong,khong,co,quat treo tuong,khong,co,tu vai,giuong doi,khong,khong,~0.5,tot,12m2,2.5k,15k,15k,800k,khong
